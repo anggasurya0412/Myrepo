@@ -1,6 +1,6 @@
 
-*.json
-
 *.odt#
 
 *.odt
+
+staging/yarn\.lock

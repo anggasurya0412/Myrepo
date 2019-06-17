@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"test": "codeceptjs run --steps"
+	},
+	"dependencies": {
+		"codeceptjs": "^1.1.2",
+		"nightmare": "^2.10.0",
+		"nightmare-upload": "^0.1.1",
+		"webdriverio": "^4.12.0"
+	}
+}
