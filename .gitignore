@@ -4,3 +4,9 @@
 *.odt
 
 staging/yarn\.lock
+
+vouch/node_modules/
+
+vouch/yarn.lock
+
+vouch/package-lock.json
