@@ -1,0 +1,30 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "test cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run": "cypress run"
+  },
+  "author": "angga",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.4.1",
+    "eslint": "^6.1.0",
+    "eslint-plugin-cypress": "^2.6.1",
+    "faker": "^4.1.0",
+    "glob": "^7.1.4",
+    "js-beautify": "^1.10.1",
+    "mocha-steps": "^1.3.0"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^3.3.3",
+    "mocha": "5.2.0",
+    "mocha-junit-reporter": "^1.23.1",
+    "mocha-multi-reporters": "^1.1.7",
+    "mochawesome": "^4.1.0",
+    "mochawesome-merge": "^2.0.1",
+    "mochawesome-report-generator": "^4.0.1"
+  }
+}
