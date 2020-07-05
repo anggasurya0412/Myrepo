@@ -1,0 +1,12 @@
+{
+    "vaildCreditCard": {
+        "cardNumber": "4811 1111 1111 1114",
+        "cvv": "123",
+        "otp": "112233"
+    },
+    "invaildCreditCard": {
+        "cardNumber": "4911 1111 1111 1113",
+        "cvv": "123",
+        "otp": "112233"
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "url": {
+    "webPillow": "https://demo.midtrans.com",
+    "webTravel": "https://www.phptravels.net"
+  },
+  "report": {
+    "save_to_db": true
+  }
+}
