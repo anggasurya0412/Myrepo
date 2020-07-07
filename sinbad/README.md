@@ -77,7 +77,7 @@ Open http://localhost:8080/ on your browser
 
 Nb : 
 ```bash
-$ Repeat test actions in the browser and check the console for errors.
+$ "Repeat test actions in the browser and check the console for errors."
   If you see this error, it means that the tested website caused it. You can fix it or disable tracking JavaScript errors in TestCafe. To do the latter, enable the "--skip-js-errors" option.
 
 e.g :
