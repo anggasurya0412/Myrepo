@@ -6,10 +6,12 @@
 staging/yarn\.lock
 
 vouch/node_modules/
-
 vouch/yarn.lock
 
 blbli/yarn.lock
 
 vouch/package-lock.json
 sinbad/Dockerfile
+
+dalenta/mocha/node_modules
+dalenta/mocha/package-lock.json
