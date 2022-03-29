@@ -13,3 +13,6 @@ blbli/yarn.lock
 
 vouch/package-lock.json
 sinbad/Dockerfile
+flip/mocha/package-lock.json
+flip/mocha/node_modules/*
+flip/mocha/mochawesome-report/*
