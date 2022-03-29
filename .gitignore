@@ -13,3 +13,12 @@ blbli/yarn.lock
 
 vouch/package-lock.json
 sinbad/Dockerfile
+flip/cypress/cypress/integration/2-advanced-examples/*
+flip/cypress/cypress/integration/1-getting-started/*
+flip/cypress/node_modules/*
+flip/mocha/node_modules/*
+flip/mocha/package-lock.json
+flip/cypress/package-lock.json
+flip/mocha/mochawesome-report/*
+flip/cypress/cypress/videos/checkout-product.spec.js.mp4
+flip/cypress/mochawesome-report/*
