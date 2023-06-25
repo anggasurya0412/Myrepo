@@ -14,3 +14,4 @@ blbli/yarn.lock
 vouch/package-lock.json
 sinbad/Dockerfile
 cermati/UI test/node_modules/*
+cermati/UI test/package-lock.json
