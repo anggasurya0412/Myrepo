@@ -15,3 +15,5 @@ vouch/package-lock.json
 sinbad/Dockerfile
 cermati/UI test/node_modules/*
 cermati/UI test/package-lock.json
+cermati/API test/node_modules/*
+cermati/API test/package-lock.json
