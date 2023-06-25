@@ -28,3 +28,6 @@ flip/cypress/mochawesome-report/*
 99co/cypress/node_modules/*
 99co/cypress/cypress/videos/*
 99co/cypress/package-lock.json
+dalenta/mocha/node_modules/*
+dalenta/mocha/package-lock.json
+99co/cypress/package-lock.json 09-23-08-028.json
