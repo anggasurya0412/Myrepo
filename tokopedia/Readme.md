@@ -31,6 +31,6 @@ const baseUrl = config.baseUrl
 
 I separated base url to config.json and made it a global variable to make it easier to maintain the code if has changes base url
 
-4. i put path url & request body out of description test because all test using same path url & request body
+4. i put path url & request body out of description test because all test using same path url & request body, so you only change 1 line when have changes in there.
 
 5. i use expect function to verify response API
