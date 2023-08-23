@@ -21,7 +21,7 @@
  - npm run test {folder/filename}
 
 ```EXPLANATION```
-1. i am using https://mockapi.io/ to create dummy API. This dummy API has a weakness, the system can not verify based on spesification like define order status, etc.
+1. i am using https://mockapi.io/ to create dummy API. This dummy API has a weakness, the system can not verify based on spesification like define order status, make required params, etc.
 2. const { faker } = require('@faker-js/faker'); --> i use faker to make easier randomize some body request
 3. 
 ``` 
